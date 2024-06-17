@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm TimeZero</h1>
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Codeing Improves The World!</h3>
+<a href="https://gitee.com/starlight-close-at-hand-1/note">我的笔记</a>
 <p align="left">
 </p>
 
