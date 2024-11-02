@@ -1,5 +1,5 @@
 <h1 align="center">守静笃，至虚极</h1>
-<h2 align="center">或许C++是生活，Java是工作</h2>
+<!-- <h2 align="center">或许C++是生活，Java是工作</h2> -->
 <p align="left">
 </p>
 
